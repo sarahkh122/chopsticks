@@ -50,7 +50,7 @@
     <img src="my-photo.jpg" alt="Sarah Khalfi" class="profile-pic">
     <h1>Hello, I'm Sarah Khalfi</h1>
     <p>
-      Our current project, a website devoted to educating users about artificial intelligence, was designed by me, Sarah Khalfi. 
+            Our current project, a website devoted to educating users about artificial intelligence, was designed by me, Sarah Khalfi. 
       My primary duty in this project is to make sure that the platform is not only aesthetically pleasing but also organized so that it feels natural and accessible to all users. 
       Design, in my opinion, has a significant impact on how people learn. Complex subjects like artificial intelligence can be made less daunting with a well-designed interface, and I want to ensure that our users feel inspired rather than overwhelmed. 
       Making an experience that is easy to use, interactive, and captivating is my main goal. Every element, including navigation and layout, has been thoughtfully chosen to allow users to explore and learn without needless obstacles. 
